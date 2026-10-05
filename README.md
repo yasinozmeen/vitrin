@@ -1,6 +1,8 @@
 
 # Vitrin
 
+> **Bu depo taşındı.** Vitrin artık [claude-code-mods](https://github.com/yasinozmeen/claude-code-mods/tree/main/vitrin) deposunda geliştiriliyor; güncel sürüm ve kurulum orada. Bu depo güncellenmiyor.
+
 Claude Code modu. Claude'un gönderdiği resim, video, PDF, ses, web sayfası ve
 markdown belgelerini terminalden çıkmadan sağdaki panelde gösterir.
 
